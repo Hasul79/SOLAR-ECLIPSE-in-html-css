@@ -2,4 +2,4 @@
 
 https://hasul79.github.io/SOLAR-ECLIPSE-in-html-css/
 
-#autor: Hasmik Minasyan
+# autor: Hasmik Minasyan
